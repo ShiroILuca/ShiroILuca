@@ -1,5 +1,10 @@
 ## Hi there, I'm Manami👋
 
+### About Me
+"I'm a pharmacy clerk currently transitioning into software engineering. Passionate about coding and building digital solutions that make a difference."
+
+### 🛠️ Technologies & Tools
+https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
 <!--
 **ShiroILuca/ShiroILuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
